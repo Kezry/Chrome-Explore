@@ -131,3 +131,6 @@ https://www.bing.com/fd/*
 ||vdisk.sinaimg.cn/web/1003/images/vdisk_v2/new_layerIcon.png
 ||upload-dianshi-1255598498.file.myqcloud.com/336x280(1)-babdd013f3d2b6ad8e5db60c83f9d173f3fe677c.jpg
 ||upload-dianshi-1255598498.file.myqcloud.com/%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20190409163226-0c7543d43828d74c86160ac6b474c5b463794c8a.jpg
+iyunv.com##.sign
+iyunv.com###ygteam_qqnews
+||iyunv.com/source/plugin/blueidea_qqgroup/img/qqgroup.png
